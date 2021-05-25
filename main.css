@@ -1,6 +1,13 @@
+html
+{
+  height:100%;
+}
 body
 {
-  background-color: #fbc6a4;
+  background-color: #f4cca4;
+  padding:0;
+  margin:0;
+  height:100%;
 }
 hr
 {
@@ -9,5 +16,25 @@ hr
   border-top-width:15px;
   border-top-color: #f4a9a8;
 
+
+}
+.title
+{
+  background-color: #ba135d;
+  color:#f4cca4;
+  margin:0;
+  height:35%;
+}
+.content
+{
+  height:35%;
+  padding:2%;
+}
+.footer
+{
+  height:30%;
+  padding:8px;
+  background-color: #ba135d;
+  color:#f4cca4;
 
 }
