@@ -5,14 +5,27 @@ html,body
   height:100%;
   width:100%;
 }
+h1
+{
+  margin:0;
+  padding:0;
+}
 #div1
 {
   position: relative;
-  background-color: red;
+  background-color: #000000;
   height:100%;
   width:100%;
   padding:0;
   margin:0;
+
+  color:#a7d129;
+  font-family: 'Tangerine', cursive;
+  text-align: center;
+}
+#name
+{
+  font-size: 100px;
 }
 #div2
 {
