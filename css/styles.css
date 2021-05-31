@@ -20,25 +20,25 @@ h1
   margin:0;
 
   color:#a7d129;
-  font-family: 'Tangerine', cursive;
+  font-family: 'Rokkitt', serif;
 }
 .centre_text
 {
   position: absolute;
-  height:50%;
+  height:30%;
   width:70%;
   background-color: black;
   left: 15%;
-  top:25%;
+  top:35%;
   text-align: center;
 }
 #name
 {
-  font-size: 100px;
+  font-size: 60px;
 }
 #position
 {
-  font-size: 60px;
+  font-size: 30px;
 }
 #div2
 {
