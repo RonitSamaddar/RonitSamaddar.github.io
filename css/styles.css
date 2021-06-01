@@ -38,16 +38,18 @@ h1
 #name
 {
   position: absolute;
-  top:20%;
-  font-size: 60px;
+  top:20vh;
+  left:23vh;
+  font-size: 10vh;
   z-index:2;
 }
 #position
 {
   position: absolute;
-  top:20%;
+  top:30vh;
+  left:20vh;
   z-index:2;
-  font-size: 30px;
+  font-size: 4vh;
 }
 #laptop
 {
