@@ -61,3 +61,23 @@ body, html {
     width:100%;
     object-fit: cover;
 }
+.box-text
+{
+    padding: 1.5vh 1.5vw;
+}
+.section-box-h1
+{
+    font-family: 'Leckerli One', cursive;
+    color: #FFDADA;
+    font-size: 250%;
+    text-shadow: 0 0 20px black;
+    text-align: center;
+}
+.section-box-p
+{
+    margin-top: 3%;
+    font-family: 'Leckerli One', cursive;
+    color: #FFDADA;
+    font-size: 150%;
+    text-shadow: 0 0 20px black;
+}
